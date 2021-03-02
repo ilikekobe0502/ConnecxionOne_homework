@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="home_call" type="id" />
+    <item name="home_chat" type="id" />
+    <item name="home_scanner" type="id" />
+    <item name="home_explore" type="id" />
+    <item name="home_wallet" type="id" />
+</resources>

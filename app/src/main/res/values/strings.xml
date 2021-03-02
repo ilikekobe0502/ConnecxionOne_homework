@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="phone">Phone</string>
+    <string name="chat">Chat</string>
+    <string name="scan">Scan</string>
+    <string name="explore">Explore</string>
+    <string name="wallet">Wallet</string>
+
+
+    <string name="swiper">SWIPER</string>
+    <string name="starbucks">Starbucks</string>
+    <string name="store">Store</string>
+
+    <string name="event_code">活動代碼</string>
+    <string name="partner_shop">合作電商</string>
+    <string name="popular_shop">滑眾商城</string>
+
+    <string name="tab_record">容幣紀錄</string>
+    <string name="tab_coupon">兌換券</string>
+
+    <string name="coin_name">容幣</string>
+    <string name="xnc_wallet">XNC（無限錢包）</string>
+    <string name="interactive_reward">互動獎勵</string>
+    <string name="social_reward">社群獎勵</string>
+    <string name="income">收入</string>
+    <string name="more_detail">更多詳情</string>
+
+</resources>
